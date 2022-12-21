@@ -1,6 +1,6 @@
 # Secret Handshake
 
-The projects is all about converting q giving number to the appropriate sequence of events for a secret handshake.
+The project is all about converting a giving number to the appropriate sequence of events for a secret handshake.
 
 ## App
 
